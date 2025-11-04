@@ -2,6 +2,8 @@
 
 A simple front‑end project to practice HTML and CSS by recreating key layouts from YouTube. Includes multiple static pages and page‑specific styles/scripts to experiment with layout, spacing, typography, and basic UI interactions.
 
+### [Demo](https://ansari-in.github.io/youtube-clone-css-practice/)
+
 ## Overview
 - Purpose: Hands‑on CSS layout practice (header, sidebar, feed grid, video page, etc.).
 - Stack: Pure HTML/CSS with light vanilla JS for page behaviors.
